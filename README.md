@@ -1,7 +1,7 @@
 # Projects
 ## GIS/Python/C# Projects
 
-### H3 GIS 
+### GIS 
 
 - work on D&D webmapping project. 
 - get index working from initial code created from Prospecting webmapping app
