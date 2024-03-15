@@ -1,7 +1,9 @@
-# Projects
-GIS/Python/C# Projects
+# H1 Projects
+# H2 GIS/Python/C# Projects
 
-GIS - work on D&D webmapping project. 
+# H3 GIS 
+
+- work on D&D webmapping project. 
 - get index working from initial code created from Prospecting webmapping app
 - update CSS and Javascript to new format
 - work on trial locations (Glen Forrest & Darlington)
